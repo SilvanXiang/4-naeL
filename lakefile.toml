@@ -1,0 +1,9 @@
+name = "nael"
+defaultTargets = ["NaeL"]
+
+[[lean_lib]]
+name = "NaeL"
+
+[[lean_exe]]
+name = "demo"
+root = "Demo"
